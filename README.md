@@ -10,3 +10,5 @@ Contenido De El Semestre
 *Crear mi primer repositorio
 *Modificar el archivo _README_
 fecha 
+sanchez
+13/08/26
